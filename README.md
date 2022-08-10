@@ -1,4 +1,4 @@
-<h1>Proyecto App Citas para Veterinarias </h1>
+<h1> Journal App</h1>
 
 <ul>
   <li>MATERIAL UI</li>
